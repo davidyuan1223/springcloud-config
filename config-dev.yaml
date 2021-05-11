@@ -1,4 +1,5 @@
 config:
   info: this is a config dev file
-server:
-  port: 3344
+the:
+  server:
+    port: 3344
